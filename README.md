@@ -1,4 +1,4 @@
 # MBL
-Effect of the Sun's Mass on Potentially Hazardous Asteroids (PHAs) Near-Earth in the Future 100,000 Years From 2021
+The Impact of Solar Mass Variations on Potentially Hazardous Asteroids (PHAs) in Near-Earth Orbits Over the Next 100,000 Years from 2021
 
 PHA is an asteroid with an orbit that intersects Earth's orbit and has the opportunity to crash into Earth. Asteroids are members of the solar system that are small in size so they are sensitive to disturbances/disturbances from other planets, one of which is the Sun. The sun can lose its mass which evolves over time so that its gravitational force will be low and all planetary orbits will expand. This study aims to determine the amount of PHA and its impact. Orbit calculations were performed using the Evorb15 integrator for 63 asteroid samples from Aten and Apollo. Based on the computational results, it appears that the smaller the mass of the Sun, the less number of asteroids are eliminated. The influence of the Sun's mass changes significantly when the Sun's mass decreases by more than 30%.
